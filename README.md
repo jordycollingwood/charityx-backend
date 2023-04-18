@@ -1,1 +1,1 @@
-# charityx-backend
+# CharityX Backend
